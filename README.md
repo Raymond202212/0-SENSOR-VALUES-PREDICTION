@@ -10,7 +10,7 @@
 
 **Original Data: *xTrain.py*, *yTrain.py*, *xTest.py***
 
-***yTest.py* was reveiled & published by instructor after the project. Therefore, we conducted model training & fine-tuning based on three original data files above.**
+***yTest.py* was reveiled & published by instructor after the project. Therefore, we conducted model training & fine-tuning , and outputting *yPred.py* based on three original data files above.**
 
 **References**
 
