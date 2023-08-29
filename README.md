@@ -13,10 +13,14 @@
 ***yTest.py* was reveiled & published by instructor after the project. Therefore, we conducted model training & fine-tuning based on three original data files above.**
 
 **References**
+
 [1] Zhihong Wang and Buyang Cao, “Prediction of Office Building Rental upon Spatiotemporal Data,” 2019 2nd International Conference on Data Science and Information Technology (DSIT), Seoul, Republic of Korea, 2019, pp. 168–174, doi: 10.1145/3352411.3352438.
+
 [2] Naser Shanti, Akram Assi, Hamza Shakhshir and Adnan Salman, “Machine Learning-Powered Mobile App for Predicting Used Car Prices,” 2022 3rd International
 Conference on Big-data Service and Intelligent Computation (BDSIC), Xiamen, China, 2022, pp. 52–60, doi: 10.1145/3502300.3502307.
+
 [3] M. C. Roziqin, A. Basuki and T. Harsono, "A comparison of Montecarlo linear and dynamic polynomial regression in predicting dengue fever case," 2016 International Conference on Knowledge Creation and Intelligent Computing (KCIC), Manado, Indonesia, 2016, pp. 213-218, doi: 10.1109/KCIC.2016.7883649.
+
 [4] Y. Bowen and C. Buyang, “Research on Ensemble Learning-based Housing Price Prediction Model,” 2018 Big Geospatial Data and Data Science, 2018, pp. 1-8, doi: 10.23977/bgdds.2018.11001.
 
 
