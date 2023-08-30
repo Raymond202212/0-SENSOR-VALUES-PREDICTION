@@ -1,8 +1,8 @@
 # Sensor Values Prediction
 
-**[Project Started] 2023-03-10**
+[Project Started] 2023-03-10
 
-**[Project Finished] 2023-04-02**
+[Project Finished] 2023-04-02
 
 
 **This is the project that I have collaborated with Ravishankar Subramani Iyer, who provided the list of the candidate models & assisted the model tuning.**
