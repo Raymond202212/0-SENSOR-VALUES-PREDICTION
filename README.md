@@ -1,4 +1,4 @@
-# 0-SENSOR-VALUES-PREDICTION
+# Sensor Values Prediction
 
 **[Project Started] 2023-03-10**
 
