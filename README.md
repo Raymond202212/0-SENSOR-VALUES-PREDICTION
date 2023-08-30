@@ -1,5 +1,10 @@
 # 0-SENSOR-VALUES-PREDICTION
 
+**[Project Started] 2023-03-10**
+
+**[Project Finished] 2023-04-02**
+
+
 **This is the project that I have collaborated with Ravishankar Subramani Iyer, who provided the list of the candidate models & assisted the model tuning.**
 
 **The project is under the instruction of Thomas Trappensberg, who taught us Machine Learning Fundamental (CSCI6505) during January 2023 and April 2023.**
