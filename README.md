@@ -38,7 +38,7 @@ Conference on Big-data Service and Intelligent Computation (BDSIC), Xiamen, Chin
 ## Acknowledgments
 
 * The project is under the instruction of Thomas Trappensberg, who taught us Machine Learning Fundamental (CSCI6505) during January 2023 and April 2023.
-* This final project ranked 2/28 classwide (test MSE = 352, despite interval is needed, see *Project Results.docx*). And the project scored 99/100 in that semester.
+* This final project ranked 2/28 classwide (test MSE = 352, despite interval is needed, see `Project Results.docx`). And the project scored 99/100 in that semester.
 * Original Data including `xTrain.py`, `yTrain.py`, and `xTest.py`.
 * `yTest.py` was reveiled & published by instructor after the project. Therefore, we conducted model training & fine-tuning , and outputting `yPred.py` based on three original data files above.
 
