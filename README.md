@@ -47,7 +47,8 @@ Conference on Big-data Service and Intelligent Computation (BDSIC), Xiamen, Chin
 
 ## Getting Started
 
-**[Optional]** If needing to provide the marker with a copy of the project that should run on their local machine for development, testing and/or marking purposes. Please include the following sections.
+To have a local copy of this lab, you can use either google colab or jupyterlab to execute the `code.ipynb` file. You shall execute the code block in order.
+
 
 See deployment for notes on how to deploy the project on a live system.
 
